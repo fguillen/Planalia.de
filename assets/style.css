@@ -1,3 +1,8 @@
+/*@font-face {
+  font-family: "FuturaTTF";
+  src: URL("./assets/Futura.ttf.ttc") format("ttf");
+}
+*/
 body {
-  font-family: Futura, Futura-Medium, "Futura Medium", "Century Gothic", CenturyGothic, "Apple Gothic", AppleGothic, "URW Gothic L", "Avant Garde", sans-serif;
+  font-family: "Futura", "Futura-Medium", "Futura Medium", "Century Gothic", "CenturyGothic", "Apple Gothic", "AppleGothic", "URW Gothic L", "Avant Garde", "sans-serif";
 }
